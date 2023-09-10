@@ -1,0 +1,6 @@
+Run the main.py ( Make sure all the packages are imported )
+Run the localhost:5000 server
+Uploaded videos are stored in input folder and Output videos are stored in output folder.
+
+This application only works for the below actions
+WalkingWithDog, TaiChi, Swing, HorseRace.
